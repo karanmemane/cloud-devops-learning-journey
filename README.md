@@ -34,9 +34,9 @@
 
 ### 📁 Recent Projects
 1. **Learning Environment Setup** - 🔄 In Progress
-2. **First AWS Project** - 📋 Planned
+2. **First AWS Project** - 📋 In Progress
 3. **Docker Hands-on Lab** - 📋 Planned
-4. **Terraform 10-Day Challenge** - 📋 Planned
+4. **Terraform 10-Day Challenge** - 📋 In Progress
 
 ## 🎯 This Week's Goals
 - [ ] Set up GitHub Projects boards
@@ -60,5 +60,5 @@
 - [Terraform Official Docs](https://developer.hashicorp.com/terraform/docs)
 
 ---
-**Last Updated**: $(date +"%Y-%m-%d")  
+**Last Updated**: $(date +"%2025-%09-%26")  
 **Next Review**: Weekly on Sundays
